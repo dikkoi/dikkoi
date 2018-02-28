@@ -1,2 +1,5 @@
 theme: jekyll-theme-dinky
 title: Welcome to the Octocat’s homepage!
+pages_list:
+  Архив записей: '/posts'
+ 
